@@ -106,15 +106,15 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # the values must match an icon svg name in "assets/lib/icons/"
 
 icons: moon-stars
-# icon-image: "moon-stars"
-# icon-audio: moon-stars
-# icon-video: moon-stars
-# icon-pdf: moon-stars
-# icon-record: moon-stars
-# icon-compound-object: moon-stars
-# icon-multiple: moon-stars
-# icon-default: moon-stars
-# icon-back-to-top: moon-stars
-# arrow-left: moon-stars
-# arrow-right: moon-stars
-# arrow-down: moon-stars
+icon-image: moon-stars
+icon-audio: moon-stars
+icon-video: moon-stars
+icon-pdf: moon-stars
+icon-record: moon-stars
+icon-compound-object: moon-stars
+icon-multiple: moon-stars
+icon-default: moon-stars
+icon-back-to-top: moon-stars
+arrow-left: moon-stars
+arrow-right: moon-stars
+arrow-down: moon-stars
