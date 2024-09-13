@@ -105,7 +105,7 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
 
-# icons: "moon-stars"
+icons: moon-stars
 # icon-image: "moon-stars"
 # icon-audio: moon-stars
 # icon-video: moon-stars
@@ -113,7 +113,7 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # icon-record: moon-stars
 # icon-compound-object: moon-stars
 # icon-multiple: moon-stars
-icon-default: moon-stars
+# icon-default: moon-stars
 # icon-back-to-top: moon-stars
 # arrow-left: moon-stars
 # arrow-right: moon-stars
