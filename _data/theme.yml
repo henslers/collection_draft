@@ -106,15 +106,15 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # the values must match an icon svg name in "assets/lib/icons/"
 
 icons:
-  icon-image: fuel-pump
-  icon-audio: fuel-pump
-  icon-video: fuel-pump
-  icon-pdf: fuel-pump
-  icon-record: fuel-pump
-  icon-compound-object: fuel-pump
-  icon-multiple: fuel-pump
-  icon-default: fuel-pump
-  icon-back-to-top: fuel-pump
-  arrow-left: fuel-pump
-  arrow-right: fuel-pump
-  arrow-down: fuel-pump
+icon-image: fuel-pump
+icon-audio: fuel-pump
+icon-video: fuel-pump
+icon-pdf: fuel-pump
+icon-record: fuel-pump
+icon-compound-object: fuel-pump
+icon-multiple: fuel-pump
+icon-default: fuel-pump
+icon-back-to-top: fuel-pump
+arrow-left: fuel-pump
+arrow-right: fuel-pump
+arrow-down: fuel-pump
