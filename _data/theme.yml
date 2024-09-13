@@ -94,7 +94,7 @@ bootswatch: quartz
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#4ff902"
 link-color: "#4ff902"
 base-font-family: Papyrus
 font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&display=swap" rel="stylesheet">
