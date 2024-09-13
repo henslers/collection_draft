@@ -104,7 +104,7 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # the "icons" object below can override the default icons and add new icons
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
-#
+
 icons: moon-stars
 icon-image: moon-stars
 icon-audio: moon-stars
