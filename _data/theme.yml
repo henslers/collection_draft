@@ -113,7 +113,7 @@ font-cdn: # <link href="https://fonts.googleapis.com/css?family=Parisienne&displ
 # icon-record: moon-stars
 # icon-compound-object: moon-stars
 # icon-multiple: moon-stars
-icon-default: "moon-stars"
+icon-default: moon-stars
 # icon-back-to-top: moon-stars
 # arrow-left: moon-stars
 # arrow-right: moon-stars
