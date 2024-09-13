@@ -85,7 +85,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-warning
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
@@ -110,11 +110,11 @@ icon-image: moon-stars
 icon-audio: moon-stars
 icon-video: moon-stars
 icon-pdf: moon-stars
-#   icon-record: file-text
-#   icon-compound-object: collection
-#   icon-multiple: postcard
+icon-record: moon-stars
+icon-compound-object: moon-stars
+icon-multiple: moon-stars
 icon-default: moon-stars
-#   icon-back-to-top: arrow-up-square # scroll to top icon
+icon-back-to-top: moon-stars
 arrow-left: moon-stars
 arrow-right: moon-stars
 arrow-down: moon-stars
