@@ -96,8 +96,8 @@ bootswatch: quartz
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: Papyrus
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: Parisienne
+font-cdn: <link href="https://fonts.googleapis.com/css?family=Parisienne&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
